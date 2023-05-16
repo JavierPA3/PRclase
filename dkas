@@ -1,0 +1,30 @@
+[33mtag v0.0.1[m
+Tagger: JavierPA3 <a21poarja@iesgrancapitan.org>
+Date:   Tue May 16 08:44:20 2023 +0200
+
+Version 0.0.1
+
+[33mcommit 27611e686f186e088c8a51d255464595b1d2c218[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0.0.1[m[33m)[m
+Author: JavierPA3 <a21poarja@iesgrancapitan.org>
+Date:   Tue May 16 08:43:03 2023 +0200
+
+    add index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..56efbdb 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
